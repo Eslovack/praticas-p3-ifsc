@@ -60,6 +60,7 @@ public class Animal {
 		Raça = raça;
 	}
 	public void Caminha() {
+		System.out.println("A égua da tua mãe e o cavalo do teu pai");
 		
 	}
 

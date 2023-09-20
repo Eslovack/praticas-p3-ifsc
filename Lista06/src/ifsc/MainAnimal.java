@@ -25,7 +25,23 @@ public class MainAnimal {
 		T90.setNumepata(12);
 		T90.setRaça("Russa");
 		T90.Caminha();
-		T90.mia();		
+		T90.mia();	
+		
+		System.out.println(Husky.getNome());
+		System.out.println(Husky.getComprimento());
+		System.out.println(Husky.getCor());
+		System.out.println(Husky.getEcosystem());
+		System.out.println(Husky.getNumepata());
+		System.out.println(Husky.getRaça());
+		
+		System.out.println(T90.getNome());
+		System.out.println(T90.getComprimento());
+		System.out.println(T90.getCor());
+		System.out.println(T90.getEcosystem());
+		System.out.println(T90.getNumepata());
+		System.out.println(T90.getRaça());
+		
+		
 
 	}
 
